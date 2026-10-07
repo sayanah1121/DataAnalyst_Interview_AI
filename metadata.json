@@ -1,0 +1,6 @@
+{
+  "name": "Data Analyst AI Mock Interviewer & Coding Prep",
+  "description": "Voice-driven mock interview simulator and personalized coding challenge platform for Data Analyst roles with real-time AI scoring, model answers, and progress tracking.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
